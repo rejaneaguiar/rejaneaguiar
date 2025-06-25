@@ -1,7 +1,6 @@
 
 ## Olá! Me chamo Rejane.
 - 🔭 Aluna do Inova Trilhas Maranhão 2.0
-- 🌱 Atualmente aprendendo HTML, CSS e JavaScript (o feijão com arroz da programação kkjk).
 - 😄 Pronomes: ela/dela.
 <div>
   <a href="https://github.com/rejaneaguiar">
